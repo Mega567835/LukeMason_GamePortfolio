@@ -1,0 +1,15 @@
+Game videos:
+https://www.youtube.com/watch?v=gowIHrNNptc
+https://www.youtube.com/watch?v=L5PAtDdpwP4
+
+TM4C Plants Vs. Zombies was a game sumbission to the UT ECE game competition, designed with one partner over the course of two weeks.
+We were tasked with recreating an existing game and finding out how to adapt it to an arduino-like microcontroller and drive our own LCD Display.
+While I obviously did not come up with any game concepts, I recreated the gameplay loops to work in my version of the game.
+The game is a great showcase of programming and certain game design decisions I had to make.
+
+We also had to wire up the breadboard with controls, power, and the serial bus for the screen, among other things.
+I don't have the game physically built anymore, and I cannot take any pictures of it now, so hopefully you find the submission videos useful!
+
+In terms of music and sound design, we were able to include some sound effects.
+However, we didn't have time to create a DMA driver on the TM4C, so music wasn't able to work out.
+Even though that's hardly related to game design, I thought it was worth mentioning.
