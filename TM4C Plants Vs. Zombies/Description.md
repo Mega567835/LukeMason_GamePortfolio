@@ -1,8 +1,10 @@
+# TM4C Plants Vs. Zombies - Competition Winner
+
 Game videos:
 https://www.youtube.com/watch?v=gowIHrNNptc
 https://www.youtube.com/watch?v=L5PAtDdpwP4
 
-TM4C Plants Vs. Zombies was a game sumbission to the UT ECE game competition, designed with one partner over the course of two weeks.
+TM4C Plants Vs. Zombies was a game sumbission to the UT ECE embedded systems game competition, designed with one partner over the course of two weeks.
 The game was required to run on a TM4C microcontroller, which created interesting challenges to running the game.
 We were tasked with recreating an existing game and finding out how to adapt it to the microcontroller and drive our own LCD Display.
 While I obviously did not come up with any game concepts, I recreated the gameplay loops to work in my version of the game.
