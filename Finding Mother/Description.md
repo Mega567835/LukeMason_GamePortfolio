@@ -1,4 +1,4 @@
-# Planet of the 'Chokes - Game Jam Entry
+# Finding Mother - Game Jam Entry/Personal Project
 
 Finding Mother, while lacking in title creativity, is a full length puzzle platformer. 
 This was created as a submission to a two week game jam during quarantine with a few other creators, and we continued work afterward.
