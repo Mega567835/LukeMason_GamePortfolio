@@ -1,5 +1,7 @@
 # Finding Mother - Game Jam Entry/Personal Project
 
+Game page: https://wild-mortimer.itch.io/finding-mother
+
 Finding Mother, while lacking in title creativity, is a full length puzzle platformer. 
 This was created as a submission to a two week game jam during quarantine with a few other creators, and we continued work afterward.
 In this game, I worked on game design, programming, level design, some music, and pixel art/animation for characters.
