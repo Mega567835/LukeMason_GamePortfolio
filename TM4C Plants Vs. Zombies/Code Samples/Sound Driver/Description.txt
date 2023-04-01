@@ -1,0 +1,4 @@
+DAC.h and DAC.cpp contain the funtionality for the sound effects for our game.
+Since the game was run on a microcontroller, we had to write the sound driver, including outputting voltages to a board.
+We had a speaker on the board that would output the sound effects.
+The board has an SD card on it, so we were able to store the effects there before loading them during initialization of the game.

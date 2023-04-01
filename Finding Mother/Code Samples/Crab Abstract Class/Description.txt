@@ -1,0 +1,3 @@
+This script contains the base functionality for the crab physics mechanics. 
+This Includes the state machine for launch physics and animation, as well as sounds and other collision detection.
+Other crab files all modify this functionality for their special features. 

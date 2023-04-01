@@ -1,0 +1,2 @@
+This is the game controller to handle most of the gameplay loops that occur while playing.
+It handles scene creation, enemy spawning, and difficulty and warmth progression, and anything that changes over time.

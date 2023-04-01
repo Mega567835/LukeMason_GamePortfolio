@@ -1,0 +1,3 @@
+This script contains functionality for the attacking and collision detection loops the umpire enemy has.
+While the crabs were done with mostly inheritance, we decided it would be best to implement the enemy classes with composition.
+This is because all of the enemies had very different functionality, save for their health script.

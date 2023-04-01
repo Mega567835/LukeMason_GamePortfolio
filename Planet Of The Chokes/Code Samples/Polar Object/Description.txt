@@ -1,0 +1,3 @@
+Nearly everything in this game is centered around the planet earth. 
+So, we needed a way to handle moving objects around in polar space, as well as applying cartesian movements to them.
+This class handles all of that behavior for all of the objects in the game.
