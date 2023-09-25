@@ -5,4 +5,3 @@ Much more initialization and code was excluded from GameManager for this portfol
 
 Game.h contains all the headers for the gameplay in the project. I understood that this was not great practice,
 but I was running into an issue with the board drivers and circular dependencies, so I found it easiest to combine the headers.
-However, if you're interested, you can check out all the headers here!
