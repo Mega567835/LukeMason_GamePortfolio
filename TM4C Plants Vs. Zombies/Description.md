@@ -16,4 +16,3 @@ I don't have the game physically built anymore, and I cannot take any pictures o
 
 In terms of music and sound design, we were able to include some sound effects.
 However, we didn't have time to create a DMA driver for the TM4C, so music wasn't able to work out.
-Even though that's hardly related to game design, I thought it was worth mentioning.
