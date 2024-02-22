@@ -16,3 +16,6 @@ I have worked on mainly the character movement and physics, which has been a ver
 In addition, I've created the music track included in this repository. 
 While I have not created any artwork for the game, I included images to show the progress we've made so far, especially since we have no playable demo to include here yet.
 
+Once we got rolling with the project, I was responsible for most of the level design, and I created a platforming experience that felt both exploratory and fast paced.
+Each main level is story related and somewhat easy to complete. Each trial level is much more challenging and often requires precision platforming.
+Regardless of level type, the player is timed on each level, and each level is designed to be fun to complete as fast as possible.
