@@ -19,3 +19,5 @@ While I have not created any artwork for the game, I included images to show the
 Once we got rolling with the project, I was responsible for most of the level design, and I created a platforming experience that felt both exploratory and fast paced.
 Each main level is story related and somewhat easy to complete. Each trial level is much more challenging and often requires precision platforming.
 Regardless of level type, the player is timed on each level, and each level is designed to be fun to complete as fast as possible.
+
+Prometheus unbound is soon to be released on Steam (Coming March 2024). The trailer, as well as images of the game will be posted there soon following this link (Coming soon)
