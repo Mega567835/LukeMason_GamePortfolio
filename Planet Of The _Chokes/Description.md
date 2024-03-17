@@ -2,7 +2,7 @@
 
 Game page: https://wild-mortimer.itch.io/planet-of-the-chokes
 
-Planet of the 'Chokes is my most recent game. I worked in a team of 3 to create the game for Chillenium 2023, a two day game jam at Texas A&M.
+I worked in a team of 3 to create Planet of the 'Chokes for Chillenium 2023, a two day game jam at Texas A&M.
 It is a short tower defense game with some unique mechanics. My team and I plan to continue transforming the jam game into a full game this summer.
 The game is a good showcase of game design, music composition, and programming, which I contributed most to.
 
